@@ -1,9 +1,0 @@
-[gd_resource type="Terrain3DTextureAsset" load_steps=3 format=3 uid="uid://bhje8jqlcqnd2"]
-
-[ext_resource type="Texture2D" uid="uid://k7guuqbwirck" path="res://terrains/rock030_alb_ht.dds" id="1_1j0fg"]
-[ext_resource type="Texture2D" uid="uid://cyxiok75s7wjq" path="res://terrains/rock030_nrm_rgh.png" id="2_6y4a0"]
-
-[resource]
-name = "rock030_alb_ht"
-albedo_texture = ExtResource("1_1j0fg")
-normal_texture = ExtResource("2_6y4a0")
